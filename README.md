@@ -2,6 +2,8 @@
 
 UrbanPlot is a civic-tech data platform that bridges urban planners and entrepreneurs by identifying retail gaps in Madison, WI. We integrate zoning data, parcel information, and hyper-local sentiment analysis to help identify underserved areas and guide new business development.
 
+*Built at MadData, February 2026, by [Daksh Kasi](https://github.com/dakshkasi), [Arvind Marella](https://github.com/arvindm84), [Diveesha Vanchireddy](https://github.com/Diveesha909), and [Sreevatsa Tanikella](https://github.com/PotatoBl4z3).*
+
 ## Project Overview
 
 The platform analyzes community demand across Madison by aggregating sentiment from multiple sources:
@@ -99,7 +101,7 @@ transformers               # HuggingFace NLP models
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/[your-org]/UrbanPlot.git
+   git clone https://github.com/dakshkasi/UrbanPlot.git
    cd UrbanPlot
    ```
 
@@ -148,3 +150,10 @@ transformers               # HuggingFace NLP models
 3. **Geographic Mapping**: Attach sentiment scores to Madison coordinates and parcels
 4. **Demand Scoring**: Combine multiple signals (sentiment, trends, business types) into location scores
 5. **Visualization**: Display results on interactive map and venture recommender tool
+
+## Contributors
+
+- [Daksh Kasi](https://github.com/dakshkasi)
+- [Arvind Marella](https://github.com/arvindm84)
+- [Diveesha Vanchireddy](https://github.com/Diveesha909)
+- [Sreevatsa Tanikella](https://github.com/PotatoBl4z3)
